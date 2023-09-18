@@ -1,4 +1,4 @@
-Copyright (c) <Date> <Copyright Holders>
+Copyright (c) <Date\> <Copyright Holders\>
 
 License 0mods "Don't Copy Me!".
 
