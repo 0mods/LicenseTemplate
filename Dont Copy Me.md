@@ -1,5 +1,5 @@
 Copyright (c) «Date» «Copyright Holders»
-</p>License 0mods "Don't Copy Me!".
+    License 0mods "Don't Copy Me!".
 
 Any software with this license prohibits copying the code and publishing it 
 on any other platforms than those where the project already resides. 
